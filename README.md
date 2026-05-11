@@ -24,7 +24,7 @@ The project demonstrates the complete data analytics workflow including:
 
 ## Dataset Information
 
-The dataset contains the following fields:
+The dataset contains the following fields: (Downloaded from Kaggle)
 
 - Transaction_ID
 - Date
